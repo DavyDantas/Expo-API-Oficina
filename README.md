@@ -1,3 +1,3 @@
 <h1>Dupla</h1>
-Damião Filho
-Davy Dantas
+<p>Damião Filho</p>
+<p>Davy Dantas</p>
